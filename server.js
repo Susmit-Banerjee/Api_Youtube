@@ -9,7 +9,7 @@ const app = express();
 
 app.use(
   cors({
-    origin: "https://my-youtube.cyclic.app",
+    origin: "https://my-youtube.com",
   })
 );
 
