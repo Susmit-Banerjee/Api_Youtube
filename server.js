@@ -9,7 +9,7 @@ const app = express();
 
 app.use(
   cors({
-    origin: "http://localhost:1234",
+    origin: "https://my-youtube.com",
   })
 );
 
